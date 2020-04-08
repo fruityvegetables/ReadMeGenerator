@@ -1,11 +1,2 @@
-CodeQuiz
-CodeRefactor
-jQueryProject
-NYTSearch
-PasswordGenerator
-Portfolio
-prework-about-me
 ReadMeGenerator
-SACkAttack
-WeatherDashboard
-WorkdayScheduler
+BLahhhh?
