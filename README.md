@@ -1,2 +1,9 @@
-ReadMeGenerator
-BLahhhh?
+title
+badge
+desc
+install
+usage
+license
+contrib
+testings
+question
