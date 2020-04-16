@@ -18,5 +18,6 @@ This program has an MIT license, as denoted by the badge at the top.
 Contributors: Garrett Troyer. This is open source, so feel free to fork and make branches :P
 ## Tests
 My testing methods consisted of running this program over and over.
+![gifImg](workingProduct.gif)
 ## Questions
 ![avatarImage](https://avatars1.githubusercontent.com/u/32282285?v=4) | [Link to my GitHub](https://github.com/fruityvegetables)
