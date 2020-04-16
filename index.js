@@ -58,7 +58,7 @@ const appendFileAsync = util.promisify(fs.appendFile);
     const { title, badge, description, install, usage, license, contrib, tests, questions } = data;
     // console.log(title);
     // console.log(contrib);
-    const template = `# ${title} ${badge}
+    const template = `# ${title} [![BADGE](https://img.shields.io/badge/License%3A-MIT-blue)](https://img.shields.io/badge/License%3A-MIT-blue)
 ## Description
 ${description}
 ## Table of Contents
